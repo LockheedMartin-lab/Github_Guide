@@ -12,7 +12,8 @@ $${\color{red}Sources \space specified \space in \space the \space backup \space
 [HTML embedded link](https://www.w3schools.com/html/html_links.asp)  
 [Github markdown basics](https://github.com/mattcone/markdown-guide/blob/master/_basic-syntax/line-breaks.md)  
 [Github collabsable Markdown](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab)  
-
+[Github badges](https://badgie.me/)  
+[Github badges vol2](https://shields.io/)
 ## Licence
 Just use it with common sence, if you use it write down where you got it from (the git link) and mention that others should do the same. 
 
