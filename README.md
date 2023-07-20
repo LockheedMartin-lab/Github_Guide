@@ -16,7 +16,8 @@ $${\color{red}Sources \space specified \space in \space the \space backup \space
 
 ### Badges:
 - [Github badges](https://badgie.me/)  
-- [Github badges vol2](https://shields.io/)  
+- [Github badges vol2](https://shields.io/)
+- [Github_badges vol3](https://badgen.net/)
 - [URL encoder](https://meyerweb.com/eric/tools/dencoder/)  
 - [Usage](https://stackoverflow.com/questions/38985050/how-do-i-use-the-logo-option-in-shields-io-badges)  
 - [Other Badges](https://forthebadge.com/generator/)
