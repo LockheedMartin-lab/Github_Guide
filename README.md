@@ -19,7 +19,7 @@ $${\color{red}Sources \space specified \space in \space the \space backup \space
 - [Github badges vol2](https://shields.io/)  
 - [URL encoder](https://meyerweb.com/eric/tools/dencoder/)  
 - [Usage](https://stackoverflow.com/questions/38985050/how-do-i-use-the-logo-option-in-shields-io-badges)  
-
+- [Other Badges](https://forthebadge.com/generator/)
 ## Licence
 Just use it with common sence, if you use it write down where you got it from (the git link) and mention that others should do the same. 
 
